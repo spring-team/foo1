@@ -1,6 +1,6 @@
 import dotenv from 'dotenv/config';
 import express from 'express';
-import cookieParser from 'cookie-parser';
+import cookieParser from 'cookie-parser'; 
 import session from 'express-session';
 import nextApp from 'next';
 import passport from 'passport';
