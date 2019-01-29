@@ -1,7 +1,7 @@
 {
   "name": "foo1",
   "version": "0.1.0",
-  "description": "My new project",
+  "description": "My newer project",
   "engines": {
     "node": ">=6.9.4"
   },
