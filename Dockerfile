@@ -1,6 +1,6 @@
 # DEV BUILD STEP
 FROM node:8.7-alpine as devBuild
-WORKDIR /usr/src/app
+WORKDIR /usr/src/app 
 
 RUN yarn
 # Copy the source and build
