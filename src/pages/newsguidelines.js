@@ -63,7 +63,7 @@ export default () => (
       dominated by your submissions.
     </p>
     <p>
-    <b>In Comments</b>
+      <b>In Comments</b>
     </p>
     <p>
       Be civil. Don&#39;t say things you wouldn&#39;t say face-to-face. Don&#39;t be

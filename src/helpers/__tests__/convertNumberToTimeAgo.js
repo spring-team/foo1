@@ -65,6 +65,6 @@ describe('convertNumberToTimeAgo helper function', () => {
     expect(convertNumberToTimeAgo(oneMinuteAgo.valueOf())).toMatch('1 minute ago');
   });
   it('throws an error for date in the future', () => {
-    
+
   });
 });

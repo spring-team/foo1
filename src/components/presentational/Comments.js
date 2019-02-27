@@ -18,7 +18,7 @@ const Comments = (props) => {
   }
   props.newsItem.comments.forEach((rootComment) => {
     rows.push(buildComment(rootComment, 0));
-    
+
     rootComment.comments.forEach((commentOne) => {
       rows.push(buildComment(commentOne, 1));
 
@@ -30,7 +30,7 @@ const Comments = (props) => {
 
           commentThree.comments.forEach((commentFour) => {
             rows.push(buildComment(commentFour, 4));
-            
+
             commentFour.comments.forEach((commentFive) => {
               rows.push(buildComment(commentFive, 5));
             });

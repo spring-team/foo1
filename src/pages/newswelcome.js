@@ -79,7 +79,7 @@ export default () => (
         </tbody>
       </table>
     </p>
-    <p /*align="center"*/>
+    <p /* align="center" */>
       <span className="foot">
         <br />
         <br />

@@ -49,7 +49,7 @@ const HeaderNav = props => (
       {
         props.currentURL === '/best' && (
           <Link prefetch href="/best">
-             <a className="topsel">best</a>
+            <a className="topsel">best</a>
           </Link>
         )
       }

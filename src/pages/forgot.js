@@ -71,7 +71,7 @@ const Page = ({ registerUser, url }) => {
       <br />
       <form method="post" action="/login" /* onSubmit={e => e.preventDefault()} */ style={{ marginBottom: '1em' }}>
         <input type="hidden" name="goto" value={`user?id=${user}`} />
-        <input type="hidden" name="creating" value={true} />
+        <input type="hidden" name="creating" value />
         <table style={{ border: '0px' }} >
           <tbody>
             <tr>
@@ -110,14 +110,12 @@ const registerUser = gql`
 const PageWithData = graphql(registerUser, {
   props: ({ ownProps, mutate, url }) => ({
     url,
-    registerUser: (id, password) => {
-      return mutate({
-        variables: { id, password },
-      })
+    registerUser: (id, password) => mutate({
+      variables: { id, password },
+    })
       // .then(() => Router.push(`/login?id=${id}&password=${password}`))
-        .catch(reason => console.error(reason));
-    },
-   
+      .catch(reason => console.error(reason)),
+
   }),
 })(Page);
 

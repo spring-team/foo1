@@ -22,7 +22,7 @@ describe('NewsTitle component', () => {
       <NewsTitle
         {...data.newsItems[0]}
         upvoteNewsItem={upvoteNewsItem}
-        isRankVisible={true}
+        isRankVisible
         rank={1}
       />
     ));

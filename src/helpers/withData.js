@@ -20,8 +20,7 @@ function parseCookies(ctx = {}, options = {}) {
   return mycookie;
 }
 
-export default (ComposedComponent) => {
-  return class WithData extends React.Component {
+export default ComposedComponent => class WithData extends React.Component {
     static displayName = `WithData(${ComposedComponent.displayName})`
     static propTypes = {
       serverState: PropTypes.object.isRequired,
@@ -95,5 +94,4 @@ export default (ComposedComponent) => {
         </ApolloProvider>
       );
     }
-  };
 };

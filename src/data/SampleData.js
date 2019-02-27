@@ -558,86 +558,86 @@ export default {
       upvoteCount: 171,
     },
 
-// 4.  
-// Water Found Deep Inside the Moon (nationalgeographic.com)
-// 231 points by chenster 6 hours ago | hide | 121 comments
-// 5.  
-// How did “Handbook for Mortals” get on the NYT bestseller list? (pajiba.com)
-// 48 points by cratermoon 1 hour ago | hide | 14 comments
-// 6.  
-// Titan in depth: Security in plaintext (googleblog.com)
-// 39 points by nealmueller 1 hour ago | hide | 4 comments
-// 7.  
-// The Librem 5: A Matrix-Native FLOSS Smartphone (matrix.org)
-// 307 points by Arathorn 6 hours ago | hide | 103 comments
-// 8.  
-// Generic GPU Kernels in Julia (mikeinnes.github.io)
-// 60 points by one-more-minute 2 hours ago | hide | 1 comment
-// 9.  
-// VW Strike in Slovakia Exposes a European Divide (bloomberg.com)
-// 41 points by CrocodileStreet 2 hours ago | hide | 9 comments
-// 10. 
-// Gtk-rs: The huge and long awaited release is finally here (gtk-rs.org)
-// 19 points by trextrex 1 hour ago | hide | 2 comments
-// 11. 
-// Rich Hickey's Greatest Hits (changelog.com)
-// 30 points by tosh 2 hours ago | hide | discuss
-// 12. 
-// Tesla’s Push to Build a Self-Driving Car Sparks Dissent Among Its Engineers (wsj.com)
-// 112 points by dcgudeman 3 hours ago | hide | 137 comments
-// 13. 
-// How Redlining’s Racist Effects Lasted for Decades (nytimes.com)
-// 11 points by zonotope 1 hour ago | hide | 1 comment
-// 14. 
-// Uber, Mired in Corporate Scandals, Sees Uptick in Bookings (nytimes.com)
-// 63 points by carlchenet 4 hours ago | hide | 64 comments
-// 15. 
-// Feather: Open-source icons (feathericons.com)
-// 669 points by mcone 7 hours ago | hide | 109 comments
-// 16. 
-// Spacex Launch Webcast: Formosat-5 Mission (spacex.com)
-// 51 points by cjnicholls 1 hour ago | hide | 38 comments
-// 17. 
-// Ask HN: What is your favorite CS paper?
-// 492 points by lainon 8 hours ago | hide | 165 comments
-// 18. 
-// Launch HN: Life Bot (YC S17) – Voice app to help with daily activities
-// 34 points by MerryOscar 3 hours ago | hide | 28 comments
-// 19. 
-// Debian reproducibility statistics (reproducible-builds.org)
-// 157 points by lamby 9 hours ago | hide | 63 comments
-// 20. 
-// The Scotsmen Who Invented Modernity (nationalinterest.org)
-// 34 points by pepys 3 hours ago | hide | 3 comments
-// 21. 
-// Deterministic Browser (arxiv.org)
-// 34 points by lainon 4 hours ago | hide | 1 comment
-// 22. 
-// Deep Learning for Siri’s Voice (apple.com)
-// 168 points by Yossi_Frenkel 9 hours ago | hide | 54 comments
-// 23. 
-// I'm giving up on HPKP (scotthelme.co.uk)
-// 95 points by el_duderino 8 hours ago | hide | 58 comments
-// 24. 
-// Introducing App Engine Firewall (googleblog.com)
-// 77 points by artsandsci 6 hours ago | hide | 25 comments
-// 25. 
-// Detailed study of fatalities and litigation involving police use of stun guns (reuters.com)
-// 52 points by hownottowrite 6 hours ago | hide | 31 comments
-// 26. 
-// Why it’s healthy to take a break from your online persona (2016) (theguardian.com)
-// 33 points by Tomte 5 hours ago | hide | 7 comments
-// 27. 
-// Profiling Internet Users in Africa: Insights from the Google Play Store (afridigest.com)
-// 29 points by prance 5 hours ago | hide | 1 comment
-// 28. 
-// Turing.jl: A Fresh Approach to Probabilistic Programming in Julia (turing.guru)
-// 79 points by indescions_2017 8 hours ago | hide | 10 comments
-// 29. 
-// GCC tiny (thinkingeek.com)
-// 89 points by ingve 9 hours ago | hide | 11 comments
-// 30.   Tesorio is hiring engineers and a product designer to modernize finance teams (tesorio.com)
-// 3 hours ago | hide
+    // 4.
+    // Water Found Deep Inside the Moon (nationalgeographic.com)
+    // 231 points by chenster 6 hours ago | hide | 121 comments
+    // 5.
+    // How did “Handbook for Mortals” get on the NYT bestseller list? (pajiba.com)
+    // 48 points by cratermoon 1 hour ago | hide | 14 comments
+    // 6.
+    // Titan in depth: Security in plaintext (googleblog.com)
+    // 39 points by nealmueller 1 hour ago | hide | 4 comments
+    // 7.
+    // The Librem 5: A Matrix-Native FLOSS Smartphone (matrix.org)
+    // 307 points by Arathorn 6 hours ago | hide | 103 comments
+    // 8.
+    // Generic GPU Kernels in Julia (mikeinnes.github.io)
+    // 60 points by one-more-minute 2 hours ago | hide | 1 comment
+    // 9.
+    // VW Strike in Slovakia Exposes a European Divide (bloomberg.com)
+    // 41 points by CrocodileStreet 2 hours ago | hide | 9 comments
+    // 10.
+    // Gtk-rs: The huge and long awaited release is finally here (gtk-rs.org)
+    // 19 points by trextrex 1 hour ago | hide | 2 comments
+    // 11.
+    // Rich Hickey's Greatest Hits (changelog.com)
+    // 30 points by tosh 2 hours ago | hide | discuss
+    // 12.
+    // Tesla’s Push to Build a Self-Driving Car Sparks Dissent Among Its Engineers (wsj.com)
+    // 112 points by dcgudeman 3 hours ago | hide | 137 comments
+    // 13.
+    // How Redlining’s Racist Effects Lasted for Decades (nytimes.com)
+    // 11 points by zonotope 1 hour ago | hide | 1 comment
+    // 14.
+    // Uber, Mired in Corporate Scandals, Sees Uptick in Bookings (nytimes.com)
+    // 63 points by carlchenet 4 hours ago | hide | 64 comments
+    // 15.
+    // Feather: Open-source icons (feathericons.com)
+    // 669 points by mcone 7 hours ago | hide | 109 comments
+    // 16.
+    // Spacex Launch Webcast: Formosat-5 Mission (spacex.com)
+    // 51 points by cjnicholls 1 hour ago | hide | 38 comments
+    // 17.
+    // Ask HN: What is your favorite CS paper?
+    // 492 points by lainon 8 hours ago | hide | 165 comments
+    // 18.
+    // Launch HN: Life Bot (YC S17) – Voice app to help with daily activities
+    // 34 points by MerryOscar 3 hours ago | hide | 28 comments
+    // 19.
+    // Debian reproducibility statistics (reproducible-builds.org)
+    // 157 points by lamby 9 hours ago | hide | 63 comments
+    // 20.
+    // The Scotsmen Who Invented Modernity (nationalinterest.org)
+    // 34 points by pepys 3 hours ago | hide | 3 comments
+    // 21.
+    // Deterministic Browser (arxiv.org)
+    // 34 points by lainon 4 hours ago | hide | 1 comment
+    // 22.
+    // Deep Learning for Siri’s Voice (apple.com)
+    // 168 points by Yossi_Frenkel 9 hours ago | hide | 54 comments
+    // 23.
+    // I'm giving up on HPKP (scotthelme.co.uk)
+    // 95 points by el_duderino 8 hours ago | hide | 58 comments
+    // 24.
+    // Introducing App Engine Firewall (googleblog.com)
+    // 77 points by artsandsci 6 hours ago | hide | 25 comments
+    // 25.
+    // Detailed study of fatalities and litigation involving police use of stun guns (reuters.com)
+    // 52 points by hownottowrite 6 hours ago | hide | 31 comments
+    // 26.
+    // Why it’s healthy to take a break from your online persona (2016) (theguardian.com)
+    // 33 points by Tomte 5 hours ago | hide | 7 comments
+    // 27.
+    // Profiling Internet Users in Africa: Insights from the Google Play Store (afridigest.com)
+    // 29 points by prance 5 hours ago | hide | 1 comment
+    // 28.
+    // Turing.jl: A Fresh Approach to Probabilistic Programming in Julia (turing.guru)
+    // 79 points by indescions_2017 8 hours ago | hide | 10 comments
+    // 29.
+    // GCC tiny (thinkingeek.com)
+    // 89 points by ingve 9 hours ago | hide | 11 comments
+    // 30.   Tesorio is hiring engineers and a product designer to modernize finance teams (tesorio.com)
+    // 3 hours ago | hide
   ],
   comments: [
     {

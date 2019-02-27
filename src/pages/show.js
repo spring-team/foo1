@@ -70,6 +70,6 @@ export default withData((props) => {
       }}
       />
     </Main>
-  )
+  );
 });
 

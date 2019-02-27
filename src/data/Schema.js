@@ -182,10 +182,10 @@ export const resolvers = {
 
   /*
     http://dev.apollodata.com/tools/graphql-tools/resolvers.html
-    
+
     Resolver function signature:
       fieldName(obj, args, context, info) { result }
-    
+
     obj: The object that contains the result returned from the
       resolver on the parent field, or, in the case of a top-level
       Query field, the rootValue passed from the server configuration.

@@ -43,7 +43,7 @@ class Feed {
   show = [];
   ask = [];
   job = [];
-  
+
   /* A pre constructed cache of news feeds */
   topNewsItems = sampleData.topStoriesCache;
   newNewsItems = sampleData.topStoriesCache;

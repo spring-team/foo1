@@ -33,7 +33,7 @@ describe('NewsItem Model', () => {
 //       .then(newsItems => newsItems.filter(newsItem => newsItem !== undefined))
 //       .catch(reason => logger(`Rejected News Items: ${reason}`));
 //   }
-  
+
 //   NewsItem.upvoteNewsItem(id) {
 //     return DB.upvoteNewsItem(id);
 //   }

@@ -24,12 +24,12 @@ export default props => (
         background: 'white',
       }}
     >
-    <span style={spanStyle}>Y Combinator
+      <span style={spanStyle}>Y Combinator
     has adopted the following policy toward copyright infringement on the Services
     in accordance with the Digital Millennium Copyright Act (a copy of which is
     located at </span><a href="http://www.loc.gov/copyright/legislation/dmca.pdf">
-    <span style={{ fontSize: '11.5pt', fontFamily: 'Helvetica' }}>http://www.loc.gov/copyright/legislation/dmca.pdf</span></a>
-    <span style={spanStyle}>, the "<b>DMCA</b>").
+      <span style={{ fontSize: '11.5pt', fontFamily: 'Helvetica' }}>http://www.loc.gov/copyright/legislation/dmca.pdf</span></a>
+      <span style={spanStyle}>, the "<b>DMCA</b>").
     The address of Y Combinator's Designated Agent for copyright takedown notices
     ("<b>Designated Agent</b>") is listed below.</span></p>
 
@@ -46,24 +46,24 @@ export default props => (
     section numbers) when you send written notice to us: </span></p>
 
     <ol style={{ marginTop: '0in' }} start="1" type="1">
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Identification
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Identification
          of the work or material being infringed. <i>&nbsp;</i></span></li>
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Identification
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Identification
          of the material that is claimed to be infringing, including its location,
          with sufficient detail so that Y Combinator is capable of finding it and
          verifying its existence.</span></li>
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Contact
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Contact
          information for the notifying party (the "<b>Notifying Party</b>"),
          including name, address, telephone number and e-mail address.</span></li>
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>A
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>A
          statement that the Notifying Party has a good faith belief that the
          material is not authorized by the copyright owner, its agent or law.</span></li>
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>A
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>A
          statement made under penalty of perjury that the information provided in
          the notice is accurate and that the Notifying Party is either the
          copyright owner, or authorized to make the complaint on behalf of the
          copyright owner.</span></li>
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>A
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>A
          signature of the copyright owner, or a person authorized to act on behalf
          of the owner of the copyright that has been allegedly infringed.</span></li>
     </ol>
@@ -84,24 +84,24 @@ export default props => (
     below:</span></p>
 
     <ul style={{ marginTop: '0in' }} type="disc">
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>The
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>The
          specific URLs of material that Y Combinator has removed or to which
          Y Combinator has disabled access.</span></li>
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Your
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Your
          name, address, telephone number, and email address.</span></li>
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>A
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>A
          statement that you consent to the jurisdiction of Federal District Court
          for the judicial district in which your address is located (or the federal
          district courts located in San Francisco, CA if your address is outside of
          the United States), and that you will accept service of process from the
          person who provided the original DMCA notification or an agent of such
          person.</span></li>
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>The
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>The
          following statement: "I swear, under penalty of perjury, that I have
          a good faith belief that the material was removed or disabled as a result
          of a mistake or misidentification of the material to be removed or
          disabled."</span></li>
-     <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Sign
+      <li className="MsoNormal" style={liStyle}><span style={liSpanStyle}>Sign
          the written document.</span></li>
     </ul>
 

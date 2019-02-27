@@ -20,7 +20,7 @@ const Header = props => (
             <td style={{ lineHeight: '12px', height: '10px', padding: '0px' }}>
               <HeaderNav {...props} />
             </td>
-            
+
             <td style={{ textAlign: 'right', padding: '0px', paddingRight: '4px' }}>
               {
                 props.me ?

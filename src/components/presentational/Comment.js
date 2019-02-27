@@ -23,7 +23,7 @@ const Comment = (props) => {
           <tbody>
             <tr>
               <td className="ind">
-                <img alt="" src="/static/s.gif" height="1" width={`${props.indentationLevel * 40}px`}/* Width varies depending on comment level*/ />
+                <img alt="" src="/static/s.gif" height="1" width={`${props.indentationLevel * 40}px`}/* Width varies depending on comment level */ />
               </td>
               <td style={{ verticalAlign: 'top' }} className="votelinks">
                 <center>
